@@ -1,8 +1,5 @@
 # Philadelphia Transit Index Dashboard
 
-**Target Date**: 2025.11.30 (without the interaction feature)<br>
-**Target Date**: 2025.12.10 (with interaction feature)
-
 **Zhanchao Yang**
 > Department of City and Regional Planning <br>
 > Weitzman School of Design, University of Pennsylvania
@@ -25,9 +22,8 @@ This dashboard empowers housing seekers and tenants to make informed decisions a
 
 - **Interactive Map**: Explore Philadelphia neighborhoods with an intuitive map interface powered by Mapbox
 - **Transit Index Visualization**: View transit accessibility scores at the census tract level
-- **Index Breakdown**: Understand the key factors that contribute to each area's transit score
 - **Geographic Search**: Find specific neighborhoods or addresses
-- **Data-Driven Insights**: Make informed housing decisions based on comprehensive transit analysis
+
 
 ## Usage
 
@@ -36,8 +32,6 @@ This dashboard empowers housing seekers and tenants to make informed decisions a
 3. **Click for Details**: Click on any census tract to see detailed information about:
    - Overall transit index score
    - Proximity to subway/metro stations
-   - Bus route accessibility
-   - Regional rail access
    - Other contributing factors
 4. **Search Locations**: Use the search feature to find specific neighborhoods or addresses
 5. **Compare Areas**: Click between different census tracts to compare transit accessibility
@@ -73,17 +67,6 @@ The transit index is calculated using the following data sources:
 - **Philadelphia Open Data**: Additional geographic and demographic data
 
 *Note: All data sources will be properly cited in the dashboard interface.*
-
-
-## Contributing
-
-This project was developed as part of the MUSA (Master of Urban Spatial Analytics) JavaScript course. Contributions, suggestions, and feedback are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Copyright (c) 2025 Zhanchao Yang
 
 ## Author
 
