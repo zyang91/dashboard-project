@@ -51,7 +51,6 @@ transit-index-dashboard/
 ├── package.json           # Project dependencies and scripts
 ├── .eslintrc.json        # ESLint configuration
 ├── .stylelintrc.json     # Stylelint configuration
-├── LICENSE               # MIT License
 └── README.md             # This file
 ```
 
